@@ -1,2 +1,36 @@
 
 /* Your CSS Code here. */
+h1{
+	color:blueviolet;
+	font-family:arial;
+	background-color:lightblue;
+}
+a:hover{
+	color:red;
+	font-size:30px;
+}
+a{
+	font-size:20px;
+	text-shadow:0px 0px 10px red;
+}
+#skl{
+	font-family:arial;
+	font-size: 20px;
+	font-weight:900;
+	text-shadow:0px 0px 5px yellowgreen;
+	text-tranform:lowercase;
+}
+#skills{
+	background-color: green;
+	text-align:centre;
+}
+
+
+
+
+
+
+
+
+
+
